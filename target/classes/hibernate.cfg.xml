@@ -16,6 +16,8 @@
    <!--     Mapping entity file -->
    <mapping class="com.perscholas.model.Teachers"/> 
    <mapping class="com.perscholas.model.Departments"/> 
+   <mapping class="com.perscholas.model.Students"/>
+   <mapping class="com.perscholas.model.Schools"/>
     </session-factory>  
 </hibernate-configuration>  
 
